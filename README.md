@@ -5,4 +5,4 @@ URL Classification - Primarily taught me some basics of dimensionality reduction
 
 Microsoft Prediction - My first time series analysis. Useful for learning some deep learning modeling with time series data.
 
-Skin Cancer Detection - TBD
+Skin Cancer Detection - TBD, Goal is to finish in August 2019
